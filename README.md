@@ -10,8 +10,6 @@ To run locally simply clone the repo and run:
 which by default starts up a server on port 8080 of your local machine.
 
 License
--------
-
-MIT: http://cgack.mit-license.org
+------
 
 # wizard-master
